@@ -1,0 +1,19 @@
+LEAHU MORIE ROBERT ANDREI 321 CB
+TEMA 2 PA
+
+TASK 1 (curatare)
+- complexitatea la aceasta problema este  O(S!)
+- algoritmi pe care i-am folosit au fost: algoritmul lui Lee, partitionarea unei multimi,crearea permutarilor unei multimi, problema comis-voiajorului
+- creez graful drumurilor minime intre toate zonele muradre si dupa includ roboteii in graful lor personal cu distante minime, 
+apoi pe grafurile cu roboteii, fac problema comis-voiajorului si dupa returnez minimul rezultatelor obtinute
+
+
+TASK 3 (beamdrone)
+
+- complexitatea la aceasta problema este O(n) = n*m
+-folosind ca mai sus algoritmul lui Lee , ma duc in cele 4 directii pana nu mai pot si actualizez costuruile
+- d[i][j][d] = costul minim pentru a ajunge pe pozitia (i, j) orientat pe d, iar ultima actualizare 
+este folosita pentru a rezolva unele coliziuni cu drumuri neoptime
+-din pacate imi da "run time error " si nu inteleg de ce :((( , dar am zis ca l postez asa , imi cer scuze
+
+
