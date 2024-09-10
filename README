@@ -14,6 +14,5 @@ TASK 3 (beamdrone)
 -folosind ca mai sus algoritmul lui Lee , ma duc in cele 4 directii pana nu mai pot si actualizez costuruile
 - d[i][j][d] = costul minim pentru a ajunge pe pozitia (i, j) orientat pe d, iar ultima actualizare 
 este folosita pentru a rezolva unele coliziuni cu drumuri neoptime
--din pacate imi da "run time error " si nu inteleg de ce :((( , dar am zis ca l postez asa , imi cer scuze
 
 
